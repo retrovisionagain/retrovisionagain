@@ -1,16 +1,17 @@
-## Hi there 👋
+![Banner][assets/od_arch.png]
 
-<!--
-**retrovisionagain/retrovisionagain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ✨ Who am I?
+I'm **Retro**.A regular application programmer, but with tendencies towards a systems programmer. I've been learning programming for six months now, I'm using Arch and yes, I wear stockings and write in Rust (joke). There are no repositories because what are they for? While others write a lot of information about themselves, I write almost nothing about myself.
 
-Here are some ideas to get you started:
+# What I Do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🔥 Nothing
+
+
+# 💻 Tech Stack
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Python](https://img.shields.io/badge/MyProject-Python-blue.svg?logo=python&logoColor=yellow)
+
+💬 How can I be contacted?
+
+* Telegram : <a href="https://t.me/veryretroinfo" target="_blank">retro</a>
+

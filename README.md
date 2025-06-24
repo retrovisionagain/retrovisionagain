@@ -5,7 +5,7 @@ I'm **Retro**.A regular application programmer, but with tendencies towards a sy
 
 # What I Do
 
-* 🔥 Nothing
+* 🔥I work as a freelancer -> (https://kwork.ru/user/coolguybetterthanme)
 
 
 # 💻 Tech Stack

@@ -1,7 +1,7 @@
 ![](https://github.com/retrovisionagain/retrovisionagain/blob/main/assets/od_arch.png)
 
 # ✨ Who am I?
-I'm **Retro**.A regular application programmer, but with tendencies towards a systems programmer. I've been learning programming for six months now, I'm using Arch and yes, I wear stockings and write in Rust (joke). There are no repositories because what are they for? While others write a lot of information about themselves, I write almost nothing about myself.
+I'm **Retro**.A regular application programmer, but with tendencies towards a systems programmer. I've been learning programming for 2 years now, I'm using Arch and yes, I wear stockings and write in Rust (joke). There are no repositories because what are they for? While others write a lot of information about themselves, I write almost nothing about myself.
 
 # What I Do
 

@@ -8,6 +8,7 @@
 ![](https://skillicons.dev/icons?i=neovim,vscodium)
 ## Other skills
 ![](https://skillicons.dev/icons?i=github)
+
 💬 How can I be contacted?
 
 * Telegram : <a href="https://t.me/veryretroinfo" target="_blank">retro</a>

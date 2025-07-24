@@ -1,7 +1,13 @@
 ![](https://github.com/retrovisionagain/retrovisionagain/blob/main/artix.png)
-# 💻 Tech Stack
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
+# 💻 All I known:
+## Programming Language
+![](https://skillicons.dev/icons?i=html,css,js,dart,c,py)
+## Linux
+![](https://skillicons.dev/icons?i=arch,linux) (but i use artix instead of arch)
+## Code editors
+![](https://skillicons.dev/icons?i=neovim,vscodium)
+## Other skills
+![](https://skillicons.dev/icons?i=github)
 💬 How can I be contacted?
 
 * Telegram : <a href="https://t.me/veryretroinfo" target="_blank">retro</a>

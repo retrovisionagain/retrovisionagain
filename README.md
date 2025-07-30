@@ -5,7 +5,7 @@
 <img scr="https://skillicons.dev/icons?i=html,css,js,dart,c,py">
 
 <h3>🐧 Linux</h3>
-<img src="https://skillicons.dev/icons?i=arch,linux) (but i use artix instead of arch">
+<img src="https://skillicons.dev/icons?i=arch,linux)"> (but i use artix instead of arch)
 
 <h3>📝 Code editors</h3>
 <img src="https://skillicons.dev/icons?i=neovim,vscodium">

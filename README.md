@@ -1,5 +1,5 @@
 ![](https://github.com/retrovisionagain/retrovisionagain/blob/main/artix.png)
-# 💻 All I known:
+# All I known:
 ## Programming Language
 ![](https://skillicons.dev/icons?i=html,css,js,dart,c,py)
 ## Linux

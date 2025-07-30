@@ -1,14 +1,18 @@
 ![](https://github.com/retrovisionagain/retrovisionagain/blob/main/artix.png)
 # All I known:
-## Programming Language
+<div align="left">
+<h3>🚀 Programming Language</h3>
 ![](https://skillicons.dev/icons?i=html,css,js,dart,c,py)
-## Linux
-![](https://skillicons.dev/icons?i=arch,linux) (but i use artix instead of arch)
-## Code editors
-![](https://skillicons.dev/icons?i=neovim,vscodium)
-## Other skills
-![](https://skillicons.dev/icons?i=github)
 
+<h3>🐧 Linux</h3>
+![](https://skillicons.dev/icons?i=arch,linux) (but i use artix instead of arch)
+
+<h3>📝 Code editors</h3>
+![](https://skillicons.dev/icons?i=neovim,vscodium)
+
+<h3>📚 Other skills</h3>
+![](https://skillicons.dev/icons?i=github)
+</div>
 <h2 align="left">💻 Operating Systems</h2>
 
 <div align="left">

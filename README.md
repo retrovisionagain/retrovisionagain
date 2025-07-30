@@ -2,7 +2,7 @@
 # All I known:
 <div align="left">
 <h3>🚀 Programming Language</h3>
-<img scr="https://skillicons.dev/icons?i=html,css,js,dart,c,py">
+<img src="https://skillicons.dev/icons?i=html,css,js,dart,c,py">
 
 <h3>🐧 Linux</h3>
 <img src="https://skillicons.dev/icons?i=arch,linux)"> (but i use artix instead of arch)

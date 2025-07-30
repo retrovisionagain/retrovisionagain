@@ -19,5 +19,5 @@
 
 ## 💬 How can I be contacted?
 
-* Telegram : <a href="https://t.me/veryretroinfo" target="_blank">retro</a>
+Telegram : <a href="https://t.me/veryretroinfo" target="_blank">retro</a>
 

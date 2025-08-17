@@ -1,4 +1,4 @@
-![](https://github.com/retrovisionagain/retrovisionagain/blob/main/artix.png)
+![](https://github.com/retrovisionagain/retrovisionagain/blob/main/void-linux.png)
 # All I known:
 <div align="left">
 <h3>🚀 Programming Language</h3>

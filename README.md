@@ -2,7 +2,7 @@
 # All I known:
 <div align="left">
 <h3>🚀 Programming Language</h3>
-<img src="https://skillicons.dev/icons?i=html,css,js,dart,c,py">
+<img src="https://skillicons.dev/icons?i=go,c,py">
 
 <h3>📝 Code editors</h3>
 <img src="https://skillicons.dev/icons?i=neovim,vscodium">

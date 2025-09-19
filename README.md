@@ -8,7 +8,7 @@
 <img src="https://skillicons.dev/icons?i=neovim,vscodium">
 
 <h3>📚 Other skills</h3>
-<img src="https://skillicons.dev/icons?i=github,git">
+<img src="https://skillicons.dev/icons?i=github,git,md,obsidian">
 </div>
 <h2 align="left">💻 Operating Systems</h2>
 

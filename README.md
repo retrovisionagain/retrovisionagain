@@ -5,7 +5,7 @@
 <img src="https://skillicons.dev/icons?i=go,c,py">
 
 <h3>📝 Code editors</h3>
-<img src="https://skillicons.dev/icons?i=neovim,vscodium">
+<img src="https://skillicons.dev/icons?i=neovim,vscode">
 
 <h3>📚 Other skills</h3>
 <img src="https://skillicons.dev/icons?i=github,git,md,obsidian">

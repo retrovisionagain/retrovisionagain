@@ -1,4 +1,4 @@
-![](https://github.com/retrovisionagain/retrovisionagain/blob/main/void-linux.png)
+![](https://github.com/retrovisionagain/retrovisionagain/blob/main/unix.jpg)
 # All I known:
 <div align="left">
 <h3>🚀 Programming Language</h3>
@@ -16,8 +16,3 @@
   <img src="https://img.shields.io/badge/Void_Linux-blackgreen?logo=void&logoColor=white&style=for-the-badge" height="28" alt="Arch Linux"/>
   <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge" height="28" alt="Android"/>
 </div>
-
-## 💬 How can I be contacted?
-
-Telegram : <a href="https://t.me/veryretroinfo" target="_blank">retro</a>
-
